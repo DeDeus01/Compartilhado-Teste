@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<workingSetManager>
-<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1549322596785_0" label="Java Main Sources" name="main">
-<item elementID="=Calculator_Project/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-</workingSet>
-<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1549322596905_1" label="Java Test Sources" name="test"/>
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1549322610174_2" label="Window Working Set" name="Aggregate for window 1549322610174"/>
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1549322698660_3" label="Window Working Set" name="Aggregate for window 1549322698660"/>
-</workingSetManager>
